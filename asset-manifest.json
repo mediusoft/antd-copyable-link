@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/antd-copyable-link/static/css/main.50695a3d.chunk.css",
+    "main.js": "/antd-copyable-link/static/js/main.c5d20e76.chunk.js",
+    "main.js.map": "/antd-copyable-link/static/js/main.c5d20e76.chunk.js.map",
+    "runtime-main.js": "/antd-copyable-link/static/js/runtime-main.04b37ed2.js",
+    "runtime-main.js.map": "/antd-copyable-link/static/js/runtime-main.04b37ed2.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/antd-copyable-link/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.8f7dc9c3.chunk.js": "/antd-copyable-link/static/js/2.8f7dc9c3.chunk.js",
+    "static/js/2.8f7dc9c3.chunk.js.map": "/antd-copyable-link/static/js/2.8f7dc9c3.chunk.js.map",
+    "index.html": "/antd-copyable-link/index.html",
+    "precache-manifest.9926f044ce1e099e7e31edc51376221f.js": "/antd-copyable-link/precache-manifest.9926f044ce1e099e7e31edc51376221f.js",
+    "service-worker.js": "/antd-copyable-link/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/antd-copyable-link/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.50695a3d.chunk.css.map": "/antd-copyable-link/static/css/main.50695a3d.chunk.css.map",
+    "static/js/2.8f7dc9c3.chunk.js.LICENSE.txt": "/antd-copyable-link/static/js/2.8f7dc9c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04b37ed2.js",
+    "static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.8f7dc9c3.chunk.js",
+    "static/css/main.50695a3d.chunk.css",
+    "static/js/main.c5d20e76.chunk.js"
+  ]
+}
