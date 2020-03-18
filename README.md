@@ -16,7 +16,7 @@ _Found it useful? Want more updates?_
 
 ### Screenshot
 
- <img src="./src/assets/copyable-link.gif" alt="antd copyable link" >
+ <img src="./copyable-link.gif" alt="antd copyable link" >
 
 ### Quick Start
 
